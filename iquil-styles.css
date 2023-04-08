@@ -1,0 +1,166 @@
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+    }   
+        
+	
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  border: 0.6px solid #D3D3D3;
+  text-align: center;
+  padding: 8px;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+  font-family: "Garamond", "Courier New", monospace;
+}
+
+
+.topnav a:hover {
+  font-color: black;
+ text-decoration: none;
+ 
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+ 
+}
+
+
+.font:a hover {
+    size: 63px;
+    position: relative;
+    left: 65px;
+    text-align: center;
+	font-color: black;
+    }
+
+.logo {
+position: relative;
+    left: -1470px;
+}
+
+#search-bar {
+	position: relative;
+    left: 1670px;
+	top: -75px;
+	height: 30px;
+  width: 11%;
+  padding-left: 2px;
+}
+
+.louis {
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+  position: relative;
+  left: 500px;
+  top: -200px;
+  z-index: 2;
+}
+
+.louis-text {
+	text-decoration: none;
+	font-family: "Times New Roman", Times, serif;
+	position: relative;
+	top: -80px;
+	left: 600px;
+	font-size: 27px;
+	color: black;
+}
+
+.movie-bg {
+	position: relative;
+	top: 400px;
+	left: -500px;
+	width: 13%;
+	height: 13%;
+}
+
+.movie-bg1 {
+	position: relative;
+	top: 400px;
+	left: -480px;
+	width: 13%;
+	height: 13%;
+}
+
+.movie-bg2 {
+	position: relative;
+	top: 400px;
+	left: -460px;
+	width: 13%;
+	height: 13%;
+}
+
+.movie-bg3 {
+	width: 13%;
+	height: 13%;
+	position: relative;
+	top: 80px;
+	left: 1270px;
+}
+
+.louis-cover {
+	position: relative;
+	top: 130px;
+	left: 465px;
+	width: 10.3%;
+	height: 10.3%;
+}
+
+.terms {
+position: relative;
+	top: 200px;
+	height: 200px;
+  width: 100%;
+}
+
+.big {
+	font-color: white;
+	position: relative;
+	top: 550px;
+	left: 450px;
+	font-size: 40px;
+	font-family: "Garamond", Times, serif;
+}
+
+.btn {
+text-decoration: none;
+      font-family: 'Playfair Display', serif;
+    padding: 6px 16px;
+    background-color: #fff;
+    color: #000;
+    border: solid 1px #000;
+    font-weight: 500;
+  position: relative;
+	top: -500px;
+	left: 1400px;
+	width: 10%;
+	weight: 10%;
+}
+
+.btn:hover {
+background-color: black;
+font-color: white;
+}
+
+.search-button {
+	position: relative;
+    left: 1750px;
+	top: -1228px;
+  padding-left: 2px;
+  background-color: white;
+  border: none;
+  cursor:pointer;
+}
+
